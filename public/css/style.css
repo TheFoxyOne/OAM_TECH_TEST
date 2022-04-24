@@ -1,0 +1,66 @@
+/* IMPORTS */
+@import './navigation.css';
+@import './footer.css';
+
+/* CLEAR */
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+button{
+    border: none;
+    cursor: pointer;
+}
+
+/* CUSTOM BUTTON */
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+    background-color: #5b609b;
+    border-radius: 2.5px;
+    margin: 1.5rem 0;
+    padding: 0.5rem 1rem;
+    width: fit-content;
+}
+
+.button:hover{
+    opacity: 0.75;
+}
+
+/* CUSTOM CARD */
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100px;
+    margin: 1rem 1rem;
+    padding: 0 1rem;
+    background-color: #ffffff;
+    box-shadow: 2px 5px 8px grey;
+}
+
+/* DEFAULT IMAGE */
+.default_image{
+    width: 90%;
+}
+
+.default_image img{
+    width: 100%;
+}
+
+/* CUSTOM CLASSES */
+.row{
+    display: flex;
+}

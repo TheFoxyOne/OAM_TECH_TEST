@@ -1,0 +1,12 @@
+/* HERO */
+.hero{
+    width: 70%;
+    margin: 3rem 4rem;
+}
+
+@media screen and (min-width: 641px) {
+    .hero{    
+        width: 55%;
+        margin: 5rem 10rem;
+    }
+}

@@ -1,0 +1,141 @@
+/* HERO TALENT */
+.featured_talent{
+    padding: 0 3rem;
+    margin: 3rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.featured_talent_search_filter{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.featured_talent_filters{
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.featured_talent_filters .active{
+    opacity: 0.75;
+}
+
+.featured_talent_filters button{
+    margin: 0 0;
+    width: 17%;
+}
+
+.featured_talents{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.featured_talents_talent{
+    margin: 2rem 0;
+}
+
+.featured_talents_talent a{
+    color: #60a5ff;
+}
+
+.featured_talents_talent a:hover{
+    opacity: 0.75;
+}
+
+.featured_talents_talent h4{
+    margin: 0;
+}
+
+.featured_talents_talent .column_a{
+    width: 33%;
+}
+
+.featured_talents_talent .column_b{
+    width: 66%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.featured_talents_talent img{
+    width: 100%;
+    min-width: 100px;
+    max-width: 250px;
+    height: 100%;
+}
+
+.featured_talents_talent_paragraph{
+    margin-left: 1rem;
+}
+
+.featured_talents_talent_paragraph p{
+    margin: 0;
+}
+
+.featured_talents_talent_url{
+    justify-content: start;
+    align-items: center;
+    margin-left: 1rem;
+}
+
+.featured_talents_talent_url a{
+    margin: 0 1rem;
+}
+
+.featured_talents_talent .bigScreen{
+    display: none;
+}
+
+.featured_talents_talent .mobile{
+    display: flex;
+}
+
+.featured_talents_talent .mobile .column_b{
+    margin: 1rem 0;
+}
+
+
+@media screen and (min-width: 641px) {
+    .featured_talent{
+        padding: 0 3rem;
+        margin: 3rem 0;
+    }
+
+    .featured_talent_search_filter{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        gap: 50px;
+        margin: 2rem 0;
+    }
+
+    .featured_talent_filters .button{
+        padding: 1rem 2rem;
+    }
+
+    .featured_talents_talent .bigScreen{
+        display: flex;
+    }
+
+    .featured_talents_talent .row{
+        justify-content: flex-start;
+        gap: 10px;
+    }
+
+    .featured_talents_talent .mobile{
+        display: none;
+    }
+
+    .featured_talents_talent .column_a{
+        width: 15%;
+    }
+    
+    .featured_talents_talent .column_b{
+        width: 60%;
+    }
+}

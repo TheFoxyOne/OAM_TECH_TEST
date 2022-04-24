@@ -1,0 +1,96 @@
+{
+    "logo":"LOGO",
+    "home":"Home",
+    "talent":"Talent",
+    "about":"About",
+    "contact":"Contact",
+    "hero_title":"LOREM IPSUM DOLOR",
+    "hero_paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, quia! Omnis sunt nobis ut nam itaque eligendi distinctio pariatur aut magnam? Eligendi quos rerum nulla aperiam nemo recusandae qui tenetur nobis! Provident debitis, vero ab, neque optio cum, vitae blanditiis quidem quo tempora repudiandae voluptatibus repellat quiatemporibus beatae recusandae.",
+    "featured_talent": "FEATURED TALENT",
+    "cta_button": "CTA",
+    "btn_button": "BTN",
+    "view_all_button": "VIEW ALL",
+    "info_title":"LOREM IPSUM DOLOR",
+    "info_paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Natus, quia! Omnis sunt nobis ut nam itaque eligendi distinctio pariatur aut magnam? Eligendi quos rerum nulla aperiam nemo recusandae qui tenetur nobis! Provident debitis, vero ab, neque optio cum, vitae blanditiis quidem quo tempora repudiandae voluptatibus repellat quiatemporibus beatae recusandae.",
+    "twitter_feed_title":"TWITTER FEED",
+    "get_in_touch_title":"GET IN TOUCH",
+    "name":"NAME",
+    "email":"EMAIL",
+    "tel":"TEL",
+    "message":"MESSAGE",
+    "links_title":"Links",
+    "links_data":[
+        {
+            "title":"Lorem ipsum dolor",
+            "url":"#"
+        },
+        {
+            "title":"Amet consectetur adipisicing",
+            "url":"#"
+        },
+        {
+            "title":"Lorem ipsum dolor",
+            "url":"#"
+        },
+        {
+            "title":"Amet consectetur adipisicing",
+            "url":"#"
+        },
+        {
+            "title":"Lorem ipsum dolor",
+            "url":"#"
+        },
+        {
+            "title":"Amet consectetur adipisicing",
+            "url":"#"
+        }
+    ],
+    "address_title":"Address",
+    "address_paragraph":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quibusdam, optio. Nulla dolore blanditiis modi a! Omnis nemo nisi impedit ut!",
+    "talent_page_hero_talent_paragraph":"Lorem ipsum dolor sit amet consectetur adipisicing elit. A natus sapiente veniam soluta tenetur officia recusandae reprehenderit fugit nobis suscipit. Amet praesentium consectetur asperiores fugit quisquam nihil placeat soluta culpa quo, illo laudantium, necessitatibus ducimus nulla! Sequi at voluptates quo?",
+    "search_filter":"Search Filter",
+    "show_all":"Show All",
+    "talent_a":"Talent A",
+    "talent_b":"Talent B",
+    "talent_c":"Talent C",
+    "talent_d":"Talent D",
+    "talent_url":"Talent URL",
+    "featured_talents":[
+        {
+            "image": "/public/assets/150.png",
+            "paragraph":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur, illum. Nisi officiis eos perspiciatis aliquam quos minus quia iste, assumenda at rem. Quas autem id consequatur maxime laudantium cupiditate quibusdam.",
+            "url_title": "Lorem ipsum dolor!",
+            "url":"#"
+        },
+        {
+            "image": "/public/assets/150.png",
+            "paragraph":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur, illum. Nisi officiis eos perspiciatis aliquam quos minus quia iste, assumenda at rem. Quas autem id consequatur maxime laudantium cupiditate quibusdam.",
+            "url_title": "Lorem ipsum dolor!",
+            "url":"#"
+        },
+        {
+            "image": "/public/assets/150.png",
+            "paragraph":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur, illum. Nisi officiis eos perspiciatis aliquam quos minus quia iste, assumenda at rem. Quas autem id consequatur maxime laudantium cupiditate quibusdam.",
+            "url_title": "Lorem ipsum dolor!",
+            "url":"#"
+        },
+        {
+            "image": "/public/assets/150.png",
+            "paragraph":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur, illum. Nisi officiis eos perspiciatis aliquam quos minus quia iste, assumenda at rem. Quas autem id consequatur maxime laudantium cupiditate quibusdam.",
+            "url_title": "Lorem ipsum dolor!",
+            "url":"#"
+        },
+        {
+            "image": "/public/assets/150.png",
+            "paragraph":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur, illum. Nisi officiis eos perspiciatis aliquam quos minus quia iste, assumenda at rem. Quas autem id consequatur maxime laudantium cupiditate quibusdam.",
+            "url_title": "Lorem ipsum dolor!",
+            "url":"#"
+        },
+        {
+            "image": "/public/assets/150.png",
+            "paragraph":"Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aspernatur, illum. Nisi officiis eos perspiciatis aliquam quos minus quia iste, assumenda at rem. Quas autem id consequatur maxime laudantium cupiditate quibusdam.",
+            "url_title": "Lorem ipsum dolor!",
+            "url":"#"
+        }
+    ]
+}

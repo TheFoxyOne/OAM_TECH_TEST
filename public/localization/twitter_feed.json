@@ -1,0 +1,24 @@
+{
+    "data":[
+        {
+            "image":"./assets/150.png",
+            "user":"@testUser1",
+            "post":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum similique ipsa assumenda mollitia quaerat doloribus?"
+        },
+        {
+            "image":"./assets/150.png",
+            "user":"@testUser2",
+            "post":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio dolores mollitia beatae corrupti eius harum inventore repudiandae quod incidunt dignissimos!"
+        },
+        {
+            "image":"./assets/150.png",
+            "user":"@testUser3",
+            "post":"Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum similique ipsa assumenda mollitia quaerat doloribus?"
+        },
+        {
+            "image":"./assets/150.png",
+            "user":"@testUser4",
+            "post":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Optio dolores mollitia beatae corrupti eius harum inventore repudiandae quod incidunt dignissimos!"
+        }
+    ]
+}
