@@ -92,5 +92,6 @@
             "url_title": "Lorem ipsum dolor!",
             "url":"#"
         }
-    ]
+    ],
+    "required": "Required"
 }

@@ -3,7 +3,7 @@
     <!-- LEFT MAIN MENU -->
     <div class="navigation_leftMainMenu">
         <a href="/public/index.php"><?php echo $json_data['home'] ?></a>
-        <a href="./pages/talent_page/talent_page.php"><?php echo $json_data['talent'] ?></a>
+        <a href="/public/pages/talent_page/talent_page.php"><?php echo $json_data['talent'] ?></a>
     </div>
 
     <!-- LOGO -->
@@ -30,7 +30,7 @@
             <i class="fa fa-close navigation_mainMenu_closeIcon"></i>
         </a>
         <a href="/public/index.php"><?php echo $json_data['home'] ?></a>
-        <a href="./pages/talent_page/talent_page.php"><?php echo $json_data['talent'] ?></a>
+        <a href="/public/pages/talent_page/talent_page.php"><?php echo $json_data['talent'] ?></a>
         <a href="#"><?php echo $json_data['about'] ?></a>
         <a href="#"><?php echo $json_data['contact'] ?></a>
     </div>

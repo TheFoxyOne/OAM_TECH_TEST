@@ -23,11 +23,12 @@
 
 .footer_links .links_data a{
     color: #ffffff;
-    padding: 0 1rem 0.5rem 0;
+    margin: 0 1rem 0.5rem 0;
 }
 
 .footer_links .links_data a:hover{
     opacity: 0.75;
+    border-bottom: 1px solid #ffffff;
 }
 
 .footer_address{

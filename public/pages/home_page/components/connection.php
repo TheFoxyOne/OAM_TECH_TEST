@@ -32,17 +32,18 @@ $twitter_feed_json_data = json_decode($twitter_feed_json,true);
         <div class="get_in_touch">
             <h2><?php echo $json_data['get_in_touch_title'] ?></h2>
             <div class="get_in_touch_form card">
-                <form action="">
-                    <label for="name"><?php echo $json_data['name'] ?></label>
-                    <input type="text" id="name" name="name" value="">
-                    <label for="email"><?php echo $json_data['email'] ?></label>
-                    <input type="text" id="email" name="email" value="">
+                <form action="/">
+                    <label for="name"><?php echo $json_data['name'] ?>*</label>
+                    <input type="text" id="name" name="name" value="" required>
+                    <label for="email"><?php echo $json_data['email'] ?>*</label>
+                    <input type="text" id="email" name="email" value="" required>
                     <label for="tel"><?php echo $json_data['tel'] ?></label>
                     <input type="text" id="tel" name="tel" value="">
-                    <label for="message"><?php echo $json_data['message'] ?></label>
-                    <textarea name="message" id="message" cols="30" rows="10"></textarea>
+                    <label for="message"><?php echo $json_data['message'] ?>*</label>
+                    <textarea name="message" id="message" cols="30" rows="10" required> </textarea>
                     <input type="submit" class="button" value="Submit">
                 </form>
+                <div class="get_in_touch_required">*<?php echo $json_data['required'] ?></div>
             </div>
         </div>
     </div>

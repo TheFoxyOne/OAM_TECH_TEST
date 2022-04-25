@@ -1,6 +1,6 @@
 /* CONNECTION */
 .connection{
-    padding: 3rem 4rem;
+    padding: 1.5rem 4rem;
 }
 
 .column_a{
@@ -34,20 +34,34 @@
 }
 
 .get_in_touch_form input{
-    width: 100%;
+    width: 99%;
     padding: 5px 0;
+    border: 2px solid #5BA6A8;
+    border-radius:5px;
 }
 
 .get_in_touch_form textarea{
-    width: 100%;
+    width: 99%;
     padding: 5px 0;
+    border: 2px solid #5BA6A8;
+    border-radius:5px;
 }
 
 .get_in_touch_form .button{
     width: 100%;
     border: none;
     padding: 1rem 0;
+    margin: 1.5rem 0 0 0;
     cursor: pointer;
+    align-self: center;
+}
+
+.get_in_touch_required{
+    width: 90%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin: 1rem 0;
 }
 
 .twitter_feed{
